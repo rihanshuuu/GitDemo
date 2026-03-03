@@ -1,0 +1,94 @@
+Mern Stack
+   >> M: MongoDB (Database)
+   >> E: ExpressJs (BackEnd)
+   >> R: ReactJs (FrontEND)
+   >> N: NodeJs (BackEnd Server)
+
+Mean Stack
+   >> M: MongoDB
+   >> E: ExpressJs
+   >> A: Angular
+   >> N: NodeJs
+
+Three Pillars
+   >> HTML: (Hyper_Text_Markup_Language)
+   >> CSS : (Cascading_Style_Sheets)
+   >> JS  : (Java-Script)
+
+Other Stacks
+   >>MEAN, MERN, JAVA Full STACK
+
+WEB Development
+   >> Building/Development Team
+   >> Teasting Team ( Manual Teasters / Automated Teasters)
+   >> Hosting Team ( DeveOps Team )
+   >> Maintanance Team / Support Team
+
+SDLC (Software Development Life Cycle)
+   >> Water FAll Model
+   >> Agile Model 
+   >> Spiral model 
+   >> Iterative Model
+   >> V Shaped Model 
+   >> RAD (Rapid Application Development) Model
+
+URL (UniForm Resource Locator)
+   >> https://www.instagram.com 
+   >> https://wikipedia.com
+   >> https://education.rihanshuAcademy.edu/Fullstack
+
+   https: Protocol
+   rohanAcademy: Serever/Domain Name
+   education: Sub-Domain
+   .edu: TLD (Top Level Domain)
+   Fullstack:  Path / location
+
+Protocol
+   >> Set of Rules/instructions
+      >> https: Hyper Text Transfer Protocol Secure
+      >> http : Hyper Text Transfer Protocol
+      >> tcp  : Transmission Control Protocol  
+      >> udp  : User Datagram Protocol
+      >> smtp : Simple Mail Transfer Protocol    
+      >> ftp  : File Transfer Protocol
+      >> ip   : Internet Protocol (ipV4 & ipV6)
+
+         >> Client/Web Page ----->(UserName & UserPassword)----------> Instagram Server  
+         To secure a Webside credencial from the hacker we use  
+         SSL Certification (Secured Socket Layer)
+
+Server/Domain Name
+   >> Unique Identifier
+      >> Eg: Google, Amazon
+   
+Sub Domain Name
+   >> Sub part of the Main Domain
+      >> Eg: 
+         >> Gmeet,
+         >> Gmaps,
+         >> Gphotos,
+         >> GDrive,  
+
+         >> Amazon Shopping
+         >> AWS Amazon
+         >> Amazon Music
+         >> Amazon Prime
+
+TLD (Top Level Domain)  
+   >> Amazon.in (India)
+   >> Amazon.com (Commercial)
+   >> Amazon.edu (Education)
+   >> Amazon.org (Organisation)
+   >> Amazon.uk (united Kingdom)
+
+
+Offline Editors
+   >> Notepad
+   >> Notepad++
+   >> Subline  
+   >> open Brackets
+   >> VS  (Visual Studio)code
+
+Online Editors
+   >> CodeSpace  
+   >> CodeSandbox = VS Code   

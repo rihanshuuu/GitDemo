@@ -1,0 +1,36 @@
+Git >> Version Control
+
+    Git is used for many things like Version Control
+        >> Eg. Watsapp Control
+                >> V1
+                >> V2
+                >> V3
+                >> V4
+
+    >> It is Distrubutrd (On Cloud)
+    >> Collaboration     (we can Collaborate with all types of Creator On the Platform)
+    >> Tracking          (tracking is easy for Required Changes)
+    >> Recovery          (We can Recovery the codes from any versions if facing any isuue)
+
+We have different hubs for the GitHub
+    >> GitHub (Recommended because of cost factor & many More)
+    >> BitBucket
+    >> Gitlabs
+    >> GitPod
+
+If anyone uses Git For the very Frst time then we need to run a One time command in Our System To configure in The GitHub
+    >> git config --global user.name "rihanshuuu"
+    >> git config --global user.email "rihanshuuu@gmail.com"
+    >> git config --global color.ui auto
+
+Mandatory Commands:
+    >> git init 
+    >> git remote add origin https://github.com/rihanshuuu/GitDemo.git
+
+For pull Request
+    >> git pull origin main 
+    >> git status
+
+to push request
+    >> git add .
+    >> git status
